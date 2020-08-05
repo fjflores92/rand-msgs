@@ -17,7 +17,15 @@
   "author": "Francisco Flores <fflores.ic.ipn@gmail.com>",
   "license": "MIT",
   "bin": {
-    "rand-msgs": "./bin/global.js"
+    "rand-msgs": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjflores92/rand-msgs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fjflores92/rand-msgs/issues"
+  },
+  "homepage": "https://github.com/fjflores92/rand-msgs#readme"
 }
