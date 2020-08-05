@@ -1,12 +1,12 @@
 {
   "name": "rand-msgs",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Random de mensajes",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["javascript", "js", "node", "npm", "random-messages", "messages"],
   "author": "Francisco Flores <fflores.ic.ipn@gmail.com>",
   "license": "MIT"
 }
